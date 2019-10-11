@@ -1,0 +1,8 @@
+.text-container {
+  text-align: right;
+  padding-right: 3%;
+  border-color: blue;
+}
+textarea.form-control {
+  color: #63aeeb;
+}

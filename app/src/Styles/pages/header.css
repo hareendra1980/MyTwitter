@@ -1,0 +1,17 @@
+.header-container {
+  text-align: center;
+}
+.navbar-brand {
+  padding: 10px;
+  width: 60%;
+}
+.nav-link {
+  width: 100px;
+}
+.bg-light {
+  background-color: #c7c9cc !important;
+}
+a,
+a:hover {
+  color: black;
+}

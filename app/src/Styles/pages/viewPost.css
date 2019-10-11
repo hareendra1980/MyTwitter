@@ -1,0 +1,21 @@
+.post-container {
+  background-color: white;  
+  border-style: solid;
+  border-color: black;
+  text-align: left;
+}
+.button-div {
+  background-color: white;  
+  color: black;
+  padding: 12px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.button-fav {
+  background-color: white;  
+  color: black;
+  padding: 12px;
+  font-size: 12px;
+  cursor: pointer;
+}

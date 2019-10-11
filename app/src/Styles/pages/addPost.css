@@ -1,0 +1,23 @@
+.header-container {
+}
+.form-control {
+  width: 50%;
+  margin-top: 3%;
+  margin-left: 25%;
+}
+.btn-primary {
+  color: black;
+  background-color: #c7c9cc !important;
+  border-color: rgb(129, 127, 127) !important;
+  margin-top: 10px;
+  margin-left: 40%;
+  width: 5%;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  color: black;
+  background-color: #666769 !important;
+  border-color: rgb(129, 127, 127) !important;
+}
